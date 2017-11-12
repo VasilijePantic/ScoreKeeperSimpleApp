@@ -24,6 +24,8 @@ You are also able to set the winning score all by yourself. As soon as you chang
 			p1Display.textContent = p1Score;
 			} 
 		});
+I have updated the event listener part of the application.
+Both players are also able to play the game using left and right arrow keys.
 
 This app is a part of my JavaScript and DOM learning process. I am currently learning JavaScript using "The Web Developer Bootcamp" course on Udemy.
 
